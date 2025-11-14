@@ -1,0 +1,13 @@
+Used Gemni Flash 2.5 PRO on 11/11/2025 at 5:13pm for generating new data. 
+______________________________
+Used Gemni Flash 2.5 PRO on 11/11/2025 at 5:38pm for building and optimizing tiny MLP model. 
+______________________________
+
+Used Gemni Flash 2.5 PRO on 11/11/2025 at 6:00pm for generating Training Loss Curve. 
+______________________________
+
+Used Gemni Flash 2.5 PRO on 11/11/2025 at 6:40pm for generating Model Evaluation and Heatmaps 
+______________________________
+
+Used Gemni Flash 2.5 PRO on 11/13/2025 at 7:26pm for neuron abalation function and plot. 
+______________________________
